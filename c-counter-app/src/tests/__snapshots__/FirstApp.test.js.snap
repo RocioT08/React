@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FirstApp should display <FirstApp/> correctly 1`] = `
+<Fragment>
+  <h1>
+    Hola Mundo: Juan Pablo
+  </h1>
+  <p
+    className="jsonText"
+  >
+    {"name":"Juan","age":14}
+  </p>
+  <p
+    className="detailText"
+  >
+    This is a default detail in propTypes
+  </p>
+</Fragment>
+`;
